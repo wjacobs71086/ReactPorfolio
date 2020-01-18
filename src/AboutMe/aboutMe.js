@@ -13,9 +13,7 @@ export class AboutMe extends Component {
           create exceptional outcomes is what I do.
         </p>
         <p className="about-me-body">
-          Having a background in graphic design, and technical support I was
-          seeing the power and beauty of software and that was the driving force
-          of my developmental career.
+        A bit on me: Outside of programming I'm an avid reader. I love a good story and the creation it brings. I'm a closeted DnD fan for all the same reasons! I value intentionality, kindness, being genuine, open and honest communication, hard work, and balance. Enough about me, I hope to hear more about you.
         </p>
       </section>
     );

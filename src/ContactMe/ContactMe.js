@@ -16,10 +16,10 @@ export class ContactMe extends Component {
           ]}
           style={{ height: "300px" }}
         ></ParallaxBanner>
+        <div className="contactInfo">
         <h3 className="section-title" id="bottomTitle">
           Let's Chat
         </h3>
-        <div className="contactInfo">
           <h4 className="contactTitle">I'm currently available for work!</h4>
           <h5 className="contactBody">
             If you think I would be a good fit for your project or team, let's
